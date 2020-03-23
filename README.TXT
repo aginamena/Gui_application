@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Gui application
+PURPOSE OF PROJECT: Gui application is a hands on pratice with common swing components
+VERSION or DATE: April 5th, 2019
+AUTHORS:Prof. Lynn Marshal and Agina Oghenemena Benaiah
+
